@@ -73,7 +73,8 @@ p {
   margin: 30px;
 }
 
-.navigation-links {
+.primary-link,
+.secondary-link {
   background: var(--branding-color);
   border-radius: 4px;
   color: white;
