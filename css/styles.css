@@ -149,6 +149,11 @@ nav li.active a {
   color: var(--branding-color);
 }
 
+.shweta {
+  width: 560px;
+  height: 560px;
+}
+
 footer {
   margin: 60px 0;
 }
@@ -213,6 +218,6 @@ footer .social-links a:hover {
   }
 
   nav a {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
